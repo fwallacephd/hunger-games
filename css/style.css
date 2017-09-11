@@ -1,0 +1,90 @@
+/*Hunger Games*/
+/*BODY*/
+/*FONTS
+font-family: 'Archivo Narrow', sans-serif;
+font-family: 'Passion One', cursive;
+Red: #8A0D00
+Gold: FCEF3F
+*/
+
+/*LOGO*/
+#cover {
+    background-image: url('../images/katniss.jpg');
+    position: center, center;
+    size: cover;
+    height: 545px;
+    border-bottom: 8px solid #8A0D00;
+}
+
+.title {
+    font-family: 'Passion One', cursive;
+    color: ;
+    font-size: 100px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.sub-title {
+    margin-top: 0px;
+    padding-top: 0px;
+    font-family: 'Archivo Narrow', sans-serif;
+    color: white;
+    font-size: 40px;
+    text-align: right;
+}
+
+/*BOOKS*/
+#books {
+    font-family: 'Passion One', cursive;
+    text-align: center;
+    font-size: 45px;
+    border-bottom: 8px solid #8A0D00;
+}
+
+/*Video*/
+#video {
+    background-image: url(../images/seamless_paper_texture.png);
+    position: center, center;
+    size: cover;
+}
+
+.movie-clip {
+    font-family: 'Passion One', cursive;
+    text-align: center;
+    font-size: 65px;
+}
+
+.video-clip {
+    border-bottom: 8px solid #8A0D00;
+}
+
+/*Quotes*/
+#quotes {
+    border-bottom: 8px solid #8A0D00;
+}
+.quotes-title {
+    font-family: 'Passion One', cursive;
+    text-align: center;
+    font-size: 65px;
+}
+
+.quote-items {
+    font-family: 'Archivo Narrow', sans-serif;
+    text-align: center;
+    font-size: 25px;
+    list-style:;
+    color: #8A0D00;
+}
+
+/*FOOTER*/
+.footer {
+    background-image: url(../images/seamless_paper_texture.png);
+    position: center, center;
+    size: cover;
+    font-family: 'Archivo Narrow', sans-serif;border-bottom: 8px solid #8A0D00;
+}
+
+.red {
+    color: #8A0D00;
+    font-size: 20px;
+}
