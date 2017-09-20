@@ -10,8 +10,9 @@ Gold: #FCEF3F
 /*COVER*/
 #cover {
     background-image: url('../images/katniss.jpg');
-    position: center, center;
-    size: cover;
+    background-repeat: no-repeat;
+    position: center;
+    background-size: cover, cover;
     height: 545px;
     border-bottom: 8px solid #8A0D00;
 }
