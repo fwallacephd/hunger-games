@@ -4,14 +4,15 @@
 font-family: 'Archivo Narrow', sans-serif;
 font-family: 'Passion One', cursive;
 Red: #8A0D00
-Gold: FCEF3F
+Gold: #FCEF3F
 */
 
-/*LOGO*/
+/*COVER*/
 #cover {
     background-image: url('../images/katniss.jpg');
-    position: center, center;
-    size: cover;
+    background-repeat: no-repeat;
+    position: center;
+    background-size: cover, cover;
     height: 545px;
     border-bottom: 8px solid #8A0D00;
 }
@@ -39,6 +40,14 @@ Gold: FCEF3F
     text-align: center;
     font-size: 45px;
     border-bottom: 8px solid #8A0D00;
+}
+
+a {
+    color: #8A0D00;
+}
+
+a:hover {
+    color: black;
 }
 
 /*Video*/
